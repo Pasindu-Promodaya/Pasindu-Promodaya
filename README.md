@@ -24,7 +24,3 @@ A responsive digital platform promoting regional tourism through interactive map
 
 ### 📫 Connect with me
 - **LinkedIn:** https://www.linkedin.com/in/pasindu-promodaya-732340305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
-### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/pasindu-promodaya](https://www.linkedin.com/in/your-actual-username-here/) 
-- **Portfolio:** *Coming Soon*
