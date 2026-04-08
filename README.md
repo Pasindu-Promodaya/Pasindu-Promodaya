@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pasindu Promodaya Weragala
 
 ### 🎓 Professional Background
-I am a 3rd-year **BICT (Honours)** student specializing in **Software Systems Technology** at the **University of Kelaniya, Sri Lanka**. I specialize in building robust, containerized applications that bridge modern frontend performance with complex backend relational logic.
+I am a 3rd-year **BICT (Honours)** student specializing in **Software Systems Technology** at the **University of Kelaniya, Sri Lanka**. I focus on building scalable, efficient, and user-centric software solutions.
 
 ### 🛠 Technical Ecosystem
 
