@@ -9,7 +9,7 @@ I am a 3rd-year **BICT (Honours)** student specializing in **Software Systems Te
 | :--- | :--- |
 | **Frontend** | Next.js, React, TypeScript, Tailwind CSS, Bootstrap 5 |
 | **Backend** | Django (Python), PHP, Node.js |
-| **Database** | PostgreSQL, MySQL, Custom DB Constraint Logic |
+| **Database** | PostgreSQL, MySQL |
 | **DevOps/Tools** | Docker, Docker Compose, VS Code, Git, Vercel |
 
 ### 📈 Major Portfolio Projects
