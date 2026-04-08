@@ -23,4 +23,4 @@ A responsive digital platform promoting regional tourism through interactive map
 * **Stack:** PHP 8.0+, Vanilla JS, CSS3 Flexbox.
 
 ### 📫 Connect with me
-- **LinkedIn:** https://www.linkedin.com/in/pasindu-promodaya-732340305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- **LinkedIn:** [https://www.linkedin.com/in/pasindu-promodaya-732340305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
