@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Pasindu Promodaya Weragala
 
-<!--
-**Pasindu-Promodaya/Pasindu-Promodaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+I am a 3rd-year **BICT (Honours)** student specializing in **Software Systems Technology** at the **Faculty of Computing and Technology, University of Kelaniya, Sri Lanka**. I focus on building scalable, efficient, and user-centric software solutions.
 
-Here are some ideas to get you started:
+- 🛠️ Currently developing **Eco Ride** (Sustainable Transport Management System).
+- ⚡ Deeply interested in **AI-Augmented Software Development** and Cloud Architecture.
+- 🔍 Seeking an **Industrial Internship (Software Engineering)** for late 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- **Frontend:** Next.js, React.js, Tailwind CSS
+- **Backend:** Python (Django), Node.js, PHP
+- **Database:** PostgreSQL, MySQL
+- **Tools:** Git, Docker, VS Code
+
+### 📈 Featured Projects
+- **[Eco Ride](https://github.com/Pasindu-Promodaya/eco_ride_transport_management):** A Sustainable Transport Management System built to optimize green commuting.
+- **QuickBill POS:** A retail Point of Sale system designed for high-performance retail environments.
+- **Rikili Gym:** A comprehensive Gym Management System built with Django.
+
+### 📫 Let's Connect!
+- **LinkedIn:** [linkedin.com/in/pasindu-promodaya](https://www.linkedin.com/in/your-actual-username-here/) 
+- **Portfolio:** *Coming Soon*
