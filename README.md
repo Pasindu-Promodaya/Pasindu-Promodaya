@@ -10,7 +10,7 @@ I am a **BICT (Honours)** student specializing in **Software Systems Technology*
 | **Frontend** | HTML, CSS, Next.js, React, TypeScript, Tailwind CSS, Bootstrap |
 | **Backend** | Django (Python), PHP, Node.js |
 | **Database** | PostgreSQL, MySQL |
-| **DevOps/Tools** | Docker, Docker Compose, VS Code, Git, Vercel |
+| **DevOps/Tools** | Docker, Docker Compose, VS Code, Antigravity, Git, Vercel |
 
 ### 📈 Major Portfolio Projects
 
