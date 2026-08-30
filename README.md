@@ -13,4 +13,4 @@ I am a **BICT (Honours)** student specializing in **Software Systems Technology*
 | **Tools** | Docker, Docker Compose, VS Code, Antigravity, Git, Vercel, Twilio SDK |
 
 ### 📫 Connect with me
-- **LinkedIn:** https://www.linkedin.com/in/pasindu-promodaya-732340305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- **LinkedIn:** [https://www.linkedin.com/in/pasindu-promodaya-732340305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/pasindu-weragala-732340305/)
